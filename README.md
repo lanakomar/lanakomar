@@ -16,6 +16,10 @@ I'm a full stack software engineer. During my coding time I'm usually doing this
 But on my free time I'm usually doing this :point_down:
 
 :red_car: :passenger_ship: :mountain_snow:  :camping:  :national_park: :camera: :woman_cook: :custard:  :stuffed_flatbread:  
+</br>
+</br>
+</br>
+[![Lana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanakomar&show_icons=true&hide=stars&count_private=trues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lanakomar/lanakomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
